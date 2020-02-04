@@ -1,0 +1,64 @@
+shortcut key：
+	cmd + d : select multiple same information, can be modify at same time
+	shift + option + down : copy and paste the current column
+	cmd + left : to the end of the left
+	shift + tab : move the selected part forward
+	
+
+
+HTML is not a programming language.
+	= Content Display/Structure
+
+CSS : Cascading Style Sheet  |   extended with Sass/Less
+	= Style & Design
+
+JavaScript = Dynamic Front End Programming
+PHP, Python, JS = Backend Programming
+MySQL, MongoDB = Database/Stroage
+
+---------------------------------------------------------------
+
+HTML
+
+Start & End Tag
+	<h1></h1>
+	<p></p>
+
+Self Colsing Tag
+	<br>
+	<br />
+
+
+with HTML5, you need to have :    <!DOCTYPE html>
+ 
+head :  information about the page
+title : (at least have title) show name on the header of the page 
+body : main page
+
+
+<html>
+  
+  <head>
+    <!-- This is the comment -->
+    <title></title>
+  </head>
+  <body>
+    
+  </body>
+</html>
+
+
+
+
+pragraph: <strong></strong> ： bold
+	  <em></em> : italic
+	  <del></del> : elide contents from the website 
+	  <br> :  new line
+
+	  <hr> : draw line
+
+
+Image
+
+	https://source.unsplash.com/
+
